@@ -1,6 +1,6 @@
 {
   "name": "glsl-gcd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "glsl implementation of the Euclid's algorithm for the calculation of the greatest common divisor.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "euclid",
     "webgl",
     "glslify",
-		"math"
+    "math"
   ],
   "license": "MIT",
   "devDependencies": {
