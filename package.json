@@ -21,7 +21,8 @@
     "highest common factor",
     "euclid",
     "webgl",
-    "glslify"
+    "glslify",
+		"math"
   ],
   "license": "MIT",
   "devDependencies": {
