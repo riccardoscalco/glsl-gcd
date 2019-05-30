@@ -1,0 +1,32 @@
+{
+  "name": "glsl-gcd",
+  "version": "1.0.0",
+  "description": "glsl implementation of the Euclid's algorithm for the calculation of the greatest common divisor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "glslify test.glsl | glsl-testify | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riccardoscalco/glsl-gcd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riccardoscalco/glsl-gcd/issues"
+  },
+  "keywords": [
+    "glsl",
+    "gcd",
+    "greatest common divisor",
+    "hcf",
+    "highest common factor",
+    "euclid",
+    "webgl",
+    "glslify"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "glsl-testify": "^1.0.0",
+    "glslify": "^7.0.0",
+    "tap-spec": "^5.0.0"
+  }
+}
